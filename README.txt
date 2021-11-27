@@ -1,9 +1,9 @@
 
 TITLE: 
-Cache - 100% Fully Responsive Free HTML5 Bootstrap Template
+Simple - Fully Responsive Free HTML5 template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by FreeHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
@@ -27,6 +27,9 @@ http://modernizr.com/
 Google Fonts
 https://www.google.com/fonts/
 
+Google Map
+https://maps.google.com
+
 Icomoon
 https://icomoon.io/app/
 
@@ -36,8 +39,11 @@ https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 animate.css
 http://daneden.me/animate
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Demo Images: 
-http://unsplash.com/
+jQuery Stellar
+http://markdalgleish.com/projects/stellar.js/
+
+Demo Images:
+http://unsplash.com
